@@ -1,3 +1,6 @@
+.m-025 {
+    margin: .25rem;
+}
 .m-05 {
     margin: .5rem;
 }
@@ -15,6 +18,10 @@
 }
 .m-5 {
     margin: 5rem;
+}
+.mX-025 {
+    margin-left: .25rem;
+    margin-right: .25rem;
 }
 .mX-05 {
     margin-left: .5rem;
@@ -40,6 +47,10 @@
     margin-left: 5rem;
     margin-right: 5rem;
 }
+.mY-025 {
+    margin-top: .25rem;
+    margin-bottom: .25rem;
+}
 .mY-05 {
     margin-top: .5rem;
     margin-bottom: .5rem;
@@ -64,6 +75,9 @@
     margin-top: 5rem;
     margin-bottom: 5rem;
 }
+.p-025 {
+    padding: .25rem;
+}
 .p-05 {
     padding: .5rem;
 }
@@ -81,6 +95,10 @@
 }
 .p-5 {
     padding: 5rem;
+}
+.pX-025 {
+    padding-left: .25rem;
+    padding-right: .25rem;
 }
 .pX-05 {
     padding-left: .5rem;
@@ -105,6 +123,10 @@
 .pX-5 {
     padding-left: 5rem;
     padding-right: 5rem;
+}
+.pY-025 {
+    padding-top: .25rem;
+    padding-bottom: .25rem;
 }
 .pY-05 {
     padding-top: .5rem;
