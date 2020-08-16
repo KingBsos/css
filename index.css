@@ -87,3 +87,9 @@
     height: 100%;
     vertical-align: middle;
 }
+.bg-red {
+    background-color: #f00;
+}
+.color-red {
+    color: red;
+}
