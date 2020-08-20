@@ -1,3 +1,165 @@
+.p_25R {
+    padding: .25rem;
+}
+.p_5R {
+    padding: .5rem;
+}
+.p1R {
+    padding: 1rem;
+}
+.p2R {
+    padding: 2rem;
+}
+.p3R {
+    padding: 3rem;
+}
+.p4R {
+    padding: 4rem;
+}
+.p5R {
+    padding: 5rem;
+}
+.pL_25R {
+    padding-left: .25rem;
+}
+.pL_5R {
+    padding-left: .5rem;
+}
+.pL1R {
+    padding-left: 1rem;
+}
+.pL2R {
+    padding-left: 2rem;
+}
+.pL3R {
+    padding-left: 3rem;
+}
+.pL4R {
+    padding-left: 4rem;
+}
+.pL5R {
+    padding-left: 5rem;
+}
+.pR_25R {
+    padding-right: .25rem;
+}
+.pR_5R {
+    padding-right: .5rem;
+}
+.pR1R {
+    padding-right: 1rem;
+}
+.pR2R {
+    padding-right: 2rem;
+}
+.pR3R {
+    padding-right: 3rem;
+}
+.pR4R {
+    padding-right: 4rem;
+}
+.pR5R {
+    padding-right: 5rem;
+}
+.pX_25R {
+    padding-left: .25rem;
+    padding-right: .25rem;
+}
+.pX_5R {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+.pX1R {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.pX2R {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.pX3R {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.pX4R {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.pX5R {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.pT_25R {
+    padding-top: .25rem;
+}
+.pT_5R {
+    padding-top: .5rem;
+}
+.pT1R {
+    padding-top: 1rem;
+}
+.pT2R {
+    padding-top: 2rem;
+}
+.pT3R {
+    padding-top: 3rem;
+}
+.pT4R {
+    padding-top: 4rem;
+}
+.pT5R {
+    padding-top: 5rem;
+}
+.pB_25R {
+    padding-bottom: .25rem;
+}
+.pB_5R {
+    padding-bottom: .5rem;
+}
+.pB1R {
+    padding-bottom: 1rem;
+}
+.pB2R {
+    padding-bottom: 2rem;
+}
+.pB3R {
+    padding-bottom: 3rem;
+}
+.pB4R {
+    padding-bottom: 4rem;
+}
+.pB5R {
+    padding-bottom: 5rem;
+}
+.pY_25R {
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+}
+.pY_5R {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+.pY1R {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.pY2R {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.pY3R {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.pY4R {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.pY5R {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+/*-----------------------------------------------OLD----------------------------------------*/
 .p-_25R {
     padding: .25rem;
 }

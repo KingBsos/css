@@ -1,3 +1,28 @@
+.fS_5rem {
+    font-size: 0.5rem !important;
+}
+.fS_75rem {
+    font-size: 0.75rem !important;
+}
+.fS1_25rem {
+    font-size: 1.25rem !important;
+}
+.fS1_5rem {
+    font-size: 1.5rem !important;
+}
+.fS2rem {
+    font-size: 2rem !important;
+}
+.fS2_5rem {
+    font-size: 2.5rem !important;
+}
+.fS3rem {
+    font-size: 3rem !important;
+}
+.fW9 {
+    font-weight: 900;
+}
+/*------------------------------OLD-----------------------------------------------------*/
 .fS-_5R {
     font-size: 0.5rem !important;
 }
@@ -22,6 +47,7 @@
 .fW-9 {
     font-weight: 900;
 }
+/*---------------------------------------------------------------------------*/
 .tA-l {
     text-align: left !important;
 }
@@ -29,5 +55,5 @@
     text-align: center !important;
 }
 .tA-r {
-    text-align: rihgt !important;
+    text-align: right !important;
 }

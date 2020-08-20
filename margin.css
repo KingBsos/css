@@ -1,3 +1,168 @@
+.m_25rem {
+    margin: .25rem;
+}
+.m_5rem {
+    margin: .5rem;
+}
+.m1rem {
+    margin: 1rem;
+}
+.m2rem {
+    margin: 2rem;
+}
+.m3rem {
+    margin: 3rem;
+}
+.m4rem {
+    margin: 4rem;
+}
+.m5rem {
+    margin: 5rem;
+}
+.mL_25rem {
+    margin-left: .25rem;
+}
+.mL_5rem {
+    margin-left: .5rem;
+}
+.mL1rem {
+    margin-left: 1rem;
+}
+.mL2rem {
+    margin-left: 2rem;
+}
+.mL3rem {
+    margin-left: 3rem;
+}
+.mL4rem {
+    margin-left: 4rem;
+}
+.mL5rem {
+    margin-left: 5rem;
+}
+.mR_25rem {
+    margin-right: .25rem;
+}
+.mR_5rem {
+    margin-right: .5rem;
+}
+.mR1rem {
+    margin-right: 1rem;
+}
+.mR2rem {
+    margin-right: 2rem;
+}
+.mR3rem {
+    margin-right: 3rem;
+}
+.mR4rem {
+    margin-right: 4rem;
+}
+.mR5rem {
+    margin-right: 5rem;
+}
+.mX_25rem {
+    margin-left: .25rem;
+    margin-right: .25rem;
+}
+.mX_5rem {
+    margin-left: .5rem;
+    margin-right: .5rem;
+}
+.mX1rem {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.mX2rem {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.mX3rem {
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+.mX4rem {
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+.mX5rem {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.mT_25rem {
+    margin-top: .25rem;
+}
+.mT_5rem {
+    margin-top: .5rem;
+}
+.mT1rem {
+    margin-top: 1rem;
+}
+.mT2rem {
+    margin-top: 2rem;
+}
+.mT3rem {
+    margin-top: 3rem;
+}
+.mT4rem {
+    margin-top: 4rem;
+}
+.mT5rem {
+    margin-top: 5rem;
+}
+.mB_25rem {
+    margin-bottom: .25rem;
+}
+.mB_5rem {
+    margin-bottom: .5rem;
+}
+.mB1rem {
+    margin-bottom: 1rem;
+}
+.mB2rem {
+    margin-bottom: 2rem;
+}
+.mB3rem {
+    margin-bottom: 3rem;
+}
+.mB4rem {
+    margin-bottom: 4rem;
+}
+.mB5rem {
+    margin-bottom: 5rem;
+}
+.mY_25rem {
+    margin-top: .25rem;
+    margin-bottom: .25rem;
+}
+.mY_5rem {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+.mY1rem {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.mY2rem {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.mY3rem {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.mY4rem {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+.mY5rem {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.m-a {
+    margin: auto;
+}
+/*-----------------------------------------------OLD----------------------------------------*/
 .m-_25R {
     margin: .25rem;
 }
