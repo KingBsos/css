@@ -1,3 +1,165 @@
+.p_25rem {
+    padding: .25rem;
+}
+.p_5rem {
+    padding: .5rem;
+}
+.p1rem {
+    padding: 1rem;
+}
+.p2rem {
+    padding: 2rem;
+}
+.p3rem {
+    padding: 3rem;
+}
+.p4rem {
+    padding: 4rem;
+}
+.p5rem {
+    padding: 5rem;
+}
+.pL_25rem {
+    padding-left: .25rem;
+}
+.pL_5rem {
+    padding-left: .5rem;
+}
+.pL1rem {
+    padding-left: 1rem;
+}
+.pL2rem {
+    padding-left: 2rem;
+}
+.pL3rem {
+    padding-left: 3rem;
+}
+.pL4rem {
+    padding-left: 4rem;
+}
+.pL5rem {
+    padding-left: 5rem;
+}
+.pR_25rem {
+    padding-right: .25rem;
+}
+.pR_5rem {
+    padding-right: .5rem;
+}
+.pR1rem {
+    padding-right: 1rem;
+}
+.pR2rem {
+    padding-right: 2rem;
+}
+.pR3rem {
+    padding-right: 3rem;
+}
+.pR4rem {
+    padding-right: 4rem;
+}
+.pR5rem {
+    padding-right: 5rem;
+}
+.pX_25rem {
+    padding-left: .25rem;
+    padding-right: .25rem;
+}
+.pX_5rem {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+.pX1rem {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.pX2rem {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.pX3rem {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.pX4rem {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.pX5rem {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.pT_25rem {
+    padding-top: .25rem;
+}
+.pT_5rem {
+    padding-top: .5rem;
+}
+.pT1rem {
+    padding-top: 1rem;
+}
+.pT2rem {
+    padding-top: 2rem;
+}
+.pT3rem {
+    padding-top: 3rem;
+}
+.pT4rem {
+    padding-top: 4rem;
+}
+.pT5rem {
+    padding-top: 5rem;
+}
+.pB_25rem {
+    padding-bottom: .25rem;
+}
+.pB_5rem {
+    padding-bottom: .5rem;
+}
+.pB1rem {
+    padding-bottom: 1rem;
+}
+.pB2rem {
+    padding-bottom: 2rem;
+}
+.pB3rem {
+    padding-bottom: 3rem;
+}
+.pB4rem {
+    padding-bottom: 4rem;
+}
+.pB5rem {
+    padding-bottom: 5rem;
+}
+.pY_25rem {
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+}
+.pY_5rem {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+.pY1rem {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.pY2rem {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.pY3rem {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.pY4rem {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.pY5rem {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+/*-----------------------------------------------OLD----------------------------------------*/
 .p_25R {
     padding: .25rem;
 }
@@ -318,6 +480,167 @@
     padding-bottom: 4rem;
 }
 .pY-5R {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.p-_25rem {
+    padding: .25rem;
+}
+.p-_5rem {
+    padding: .5rem;
+}
+.p-1rem {
+    padding: 1rem;
+}
+.p-2rem {
+    padding: 2rem;
+}
+.p-3rem {
+    padding: 3rem;
+}
+.p-4rem {
+    padding: 4rem;
+}
+.p-5rem {
+    padding: 5rem;
+}
+.pL-_25rem {
+    padding-left: .25rem;
+}
+.pL-_5rem {
+    padding-left: .5rem;
+}
+.pL-1rem {
+    padding-left: 1rem;
+}
+.pL-2rem {
+    padding-left: 2rem;
+}
+.pL-3rem {
+    padding-left: 3rem;
+}
+.pL-4rem {
+    padding-left: 4rem;
+}
+.pL-5rem {
+    padding-left: 5rem;
+}
+.pR-_25rem {
+    padding-right: .25rem;
+}
+.pR-_5rem {
+    padding-right: .5rem;
+}
+.pR-1rem {
+    padding-right: 1rem;
+}
+.pR-2rem {
+    padding-right: 2rem;
+}
+.pR-3rem {
+    padding-right: 3rem;
+}
+.pR-4rem {
+    padding-right: 4rem;
+}
+.pR-5rem {
+    padding-right: 5rem;
+}
+.pX-_25rem {
+    padding-left: .25rem;
+    padding-right: .25rem;
+}
+.pX-_5rem {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+.pX-1rem {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.pX-2rem {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.pX-3rem {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.pX-4rem {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.pX-5rem {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.pT-_25rem {
+    padding-top: .25rem;
+}
+.pT-_5rem {
+    padding-top: .5rem;
+}
+.pT-1rem {
+    padding-top: 1rem;
+}
+.pT-2rem {
+    padding-top: 2rem;
+}
+.pT-3rem {
+    padding-top: 3rem;
+}
+.pT-4rem {
+    padding-top: 4rem;
+}
+.pT-5rem {
+    padding-top: 5rem;
+}
+.pB-_25rem {
+    padding-bottom: .25rem;
+}
+.pB-_5rem {
+    padding-bottom: .5rem;
+}
+.pB-1rem {
+    padding-bottom: 1rem;
+}
+.pB-2rem {
+    padding-bottom: 2rem;
+}
+.pB-3rem {
+    padding-bottom: 3rem;
+}
+.pB-4rem {
+    padding-bottom: 4rem;
+}
+.pB-5rem {
+    padding-bottom: 5rem;
+}
+.pY-_25rem {
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+}
+.pY-_5rem {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+.pY-1rem {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.pY-2rem {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.pY-3rem {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.pY-4rem {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.pY-5rem {
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
