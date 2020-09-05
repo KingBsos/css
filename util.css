@@ -61,3 +61,7 @@
 .uS-n {
     user-select: none;
 }
+
+.bR15 {
+    border-radius: 15px;
+}
