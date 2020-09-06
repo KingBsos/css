@@ -1,0 +1,83 @@
+.f-l {
+    float: left;
+}
+.f-r {
+    float: right;
+}
+.CLEAR:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.po-s {
+    position: static;
+}
+.po-r {
+    position: relative;
+}
+.po-a {
+    position: absolute;
+}
+.po-f {
+    position: fixed;
+}
+.d-b {
+    display: block;
+}
+.d-ib {
+    display: inline-block;
+}
+.d-f {
+    display: flex;
+}
+.d-if {
+    display: inline-flex;
+}
+.va-t {
+    vertical-align: top;
+}
+.VA-T > * {
+    vertical-align: top;
+}
+.VA-M > * {
+    vertical-align: middle;
+}
+.VA-M:after {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.jc-fs {
+    justify-content: flex-start;
+}
+.jc-c {
+    justify-content: center;
+}
+.jc-fe {
+    justify-content: flex-end;
+}
+.jc-sb {
+    justify-content: space-between;
+}
+.jc-sa {
+    justify-content: space-around;
+}
+.ai-fs {
+    align-items: flex-start;
+}
+.ai-c {
+    align-items: center;
+}
+.ai-fe {
+    align-items: flex-end;
+}
+.ai-s {
+    align-items: stretch;
+}
+.f1 {
+    flex: 1;
+}
+.F1 > * {
+    flex: 1;
+}
