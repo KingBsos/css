@@ -1,0 +1,40 @@
+.w33 {
+    width: 33.333%;
+}
+.w100 {
+    width: 100%;
+}
+.mw100 {
+    max-width: 100%;
+}
+.h100 {
+    height: 100%;
+}
+.b0 {
+    border: 0;
+}
+.bgc-t {
+    background-color: transparent;
+}
+.o-a {
+    overflow: auto;
+}
+.o-h {
+    overflow: hidden;
+}
+.ws-n {
+    white-space: nowrap;
+}
+.us-n {
+    user-select: none;
+}
+.BTN {
+    padding: 0;
+    border: 0px;
+    background-color: transparent;
+}
+.TO {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
